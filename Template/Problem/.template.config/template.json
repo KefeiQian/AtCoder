@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "VeyronSakai",
+  "classifications": [
+    "AtCoder",
+    "Console"
+  ],
+  "identity": "AtCoder.Problem.Template",
+  "name": "AtCoder Problem",
+  "description": "A C# project template for an AtCoder problem",
+  "sourceName": "Problem",
+  "preferNameDirectory": true,
+  "shortName": "acproblem",
+  "defaultName": "Problem1",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
