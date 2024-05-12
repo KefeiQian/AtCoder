@@ -8,13 +8,13 @@
   ],
   "identity": "AtCoder.Contest.Template",
   "name": "AtCoder Contest",
-  "description": "A C# solution template for an AtCoder contest",
+  "description": "A Python solution template for an AtCoder contest",
   "sourceName": "Contest",
   "preferNameDirectory": true,
   "shortName": "accontest",
   "defaultName": "AXC1",
   "tags": {
-    "language": "C#",
+    "language": "Python",
     "type": "solution"
   }
 }

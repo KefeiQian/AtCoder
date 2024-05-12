@@ -4,6 +4,10 @@
 
 Template is forked from <https://github.com/VeyronSakai/AtCoder.Template>
 
+## Requirements
+
+- .NET 7 SDK
+
 ## Csproj generation for a problem
 
 ```sh
@@ -16,4 +20,16 @@ dotnet new acproblem
 ```sh
 # make directory and move into it
 dotnet new accontest
+```
+
+## Installation
+
+```sh
+dotnet new install Template
+```
+
+## Uninstallation
+
+```sh
+dotnet new uninstall Template
 ```

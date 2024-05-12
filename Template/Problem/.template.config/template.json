@@ -7,13 +7,13 @@
   ],
   "identity": "AtCoder.Problem.Template",
   "name": "AtCoder Problem",
-  "description": "A C# project template for an AtCoder problem",
+  "description": "A Python project template for an AtCoder problem",
   "sourceName": "Problem",
   "preferNameDirectory": true,
   "shortName": "acproblem",
   "defaultName": "Problem1",
   "tags": {
-    "language": "C#",
+    "language": "Python",
     "type": "project"
   }
 }

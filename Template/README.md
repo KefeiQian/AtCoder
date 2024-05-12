@@ -9,7 +9,7 @@ C# sln and csproj templates for AtCoder.
 ## Installation
 
 ```sh
-dotnet new install /path/to/AtCoder.Template
+dotnet new install Template
 ```
 
 ## Usage
@@ -31,5 +31,5 @@ dotnet new accontest
 ## Uninstallation
 
 ```sh
-dotnet new uninstall /path/to/AtCoder.Template
+dotnet new uninstall Template
 ```
